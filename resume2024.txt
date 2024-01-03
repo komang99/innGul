@@ -11,3 +11,18 @@ Present Tense
   - Present Perfect Continuous: 
       - Subject + [has/have been] + [verb+ing]
       - Contoh: "I have been writing a letter."
+
+==============================================================================
+Future Tense
+  - Simple Future: 
+    - Subject + [will] + [base form of the verb]
+    - Contoh: "I will write a letter."
+  - Future Continuous: 
+      - Subject + [will be] + [verb+ing]
+      - Contoh: "I will be writing a letter."
+  - Future Perfect: 
+    - Subject + [will have] + [past participle of the verb]
+    - Contoh: "I will have written a letter."
+  - Future Perfect Continuous: 
+    - Subject + [will have been] + [verb+ing]
+    - Contoh: "I will have been writing a letter."
