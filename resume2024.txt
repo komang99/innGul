@@ -42,3 +42,10 @@ Past Tense
   - Past Perfect Continuous: 
     - Subject + [had been] + [verb+ing]
     - Contoh: "I had been writing a letter."
+
+=============================================================================
+Present Tense (Masa Kini)
+Simple Present: Menunjukkan fakta umum, kebiasaan, atau aksi yang terjadi secara berkala di masa kini.
+Present Continuous: Menunjukkan aksi yang sedang berlangsung saat ini.
+Present Perfect: Menunjukkan aksi yang terjadi pada waktu yang tidak ditentukan di masa lalu dan memiliki efek hingga masa kini.
+Present Perfect Continuous: Menunjukkan aksi yang dimulai di masa lalu dan masih berlangsung hingga saat ini.
