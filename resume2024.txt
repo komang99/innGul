@@ -1,0 +1,13 @@
+Present Tense
+  - Simple Present: 
+    -Subject + [base form of the verb] (add 's' for third person singular)
+    - Contoh: "I write letters."
+  - Present Continuous: 
+    - Subject + [am/is/are] + [verb+ing]
+    - Contoh: "I am writing a letter."
+  - Present Perfect: 
+      - Subject + [has/have] + [past participle of the verb]
+      - Contoh: "I have written a letter."
+  - Present Perfect Continuous: 
+      - Subject + [has/have been] + [verb+ing]
+      - Contoh: "I have been writing a letter."
