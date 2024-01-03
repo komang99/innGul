@@ -13,6 +13,11 @@ Present Tense
       - Contoh: "I have been writing a letter."
 
 ==============================================================================
+Tambah untuk dihapus
+  - tambahan 1
+  - Tambahan 2
+
+==============================================================================
 Future Tense
   - Simple Future: 
     - Subject + [will] + [base form of the verb]
